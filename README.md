@@ -1,2 +1,1 @@
-# uzh_vamr_vo_pipeline
-Visual Odometry Pipeline
+# Visual Odometry Pipeline for the course VARM at UZH
