@@ -1,8 +1,10 @@
 # Poetry
 .poetry_venv/
+env
 
 # Data
 data/
+data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
