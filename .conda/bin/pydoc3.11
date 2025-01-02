@@ -1,0 +1,5 @@
+#!/Users/bearwei/Desktop/Yiming/vamr_project/uzh_vamr_vo_pipeline/.conda/bin/python3.11
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()
